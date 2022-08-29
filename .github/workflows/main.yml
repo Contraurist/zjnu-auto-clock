@@ -3,7 +3,7 @@ name: ZJNU Auto Block-in
 
 on:
   schedule:
-    - cron: "55 0 * * *"
+    - cron: "05 0 * * *"
     -
   workflow_dispatch: # 手动触发
 jobs:
